@@ -14,7 +14,7 @@ This project analyzes e-commerce data using SQL.
 - Monthly sales trends
 
 ## 🧩 ER Diagram
-![ER Diagram](ER_Diagram.png)
+![ER Diagram](er_diagram.png)
 
 ## 🚀 SQL Concepts
 - Joins
